@@ -1,5 +1,4 @@
 #include <iostream>
-// This a for while loop program.
 using namespace std;
 int main()
 {
