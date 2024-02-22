@@ -8,12 +8,6 @@ int main()
     // cout<<i;
     // i++;
 
-    // Syntax for for loop
-    // for(initialization; condition; updation)
-    // {
-    //     loop body(C++ code);
-    // }
-
     // for (int i = 1; i <= 40; i++)
     // {
     //     /* code */
