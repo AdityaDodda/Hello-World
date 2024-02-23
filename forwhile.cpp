@@ -7,7 +7,7 @@ int main()
     // cout<<i;
     // i++;
 
-    // Syntax for for loop
+
     // for(initialization; condition; updation)
     // {
     //     loop body(C++ code);
