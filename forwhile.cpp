@@ -47,13 +47,6 @@ int main()
     //     cout << i << endl;
     //     i++;
     // }
-
-    /* do While loop in C++*/
-        // Syntax:
-        // do
-        // {
-        //     C++ statements;
-        // }while(condition);
         
     //  Printing 1 to 40 using while loop
     // int i=1;
